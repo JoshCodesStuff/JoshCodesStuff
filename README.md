@@ -9,6 +9,6 @@ I recommend these repos:
 - [Metroidvania Game Config](https://github.com/JoshCodesStuff/MetrovaniaTutorialScripts)
 - [Python3 HTTP Proxy](https://github.com/JoshCodesStuff/python-proxy)
 - [Emacs Config](https://gist.github.com/JoshCodesStuff/304ecd801c78eb68cbbd0fe448d79502)
-- PRAW Reddit data scraper - coming soon
+- [BeautifulSoup web scraper](https://github.com/CompanyFirmInc/_ruski)
 
 I am beginning to write articles on Medium about the different things I am doing in my University degree. If you're interested you may want to check it out [here](https://joshcodesstuff.medium.com/).
