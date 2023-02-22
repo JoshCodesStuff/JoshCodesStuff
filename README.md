@@ -1,6 +1,5 @@
 # Hi, I'm Josh
 
-## About Me
 I am a part time Uni student, studying Computer Science. I'm in the final year of my degree.
 I like video game programming however I work on many different kinds of projects. I'm currently working on a machine learning approach to analysing and categorising forum data, which will allow students and researchers to find trends in large data sets, but could also be applied to other text formats.
 
